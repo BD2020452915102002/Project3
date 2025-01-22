@@ -1,2 +1,5 @@
 node_modules/
 *.exe
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/TechMarket.iml
+/.idea
